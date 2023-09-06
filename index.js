@@ -1,4 +1,4 @@
-import { CurlImpersonate } from "./curl-impersonate/dist/index.js"
+import { CurlImpersonate } from "../curl-impersonate/dist/index.js"
 
 const ci = new CurlImpersonate("https://api.amiami.com/api/v1.0/item?gcode=GOODS-04390414", {
     method: "GET",
