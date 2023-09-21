@@ -54,15 +54,9 @@
     "metadescription": "",
     "metawords": "",
     "releasechange_text": "",
-    "cate1": [
-      168
-    ],
-    "cate2": [
-      1299
-    ],
-    "cate3": [
-      10118
-    ],
+    "cate1": [168],
+    "cate2": [1299],
+    "cate3": [10118],
     "cate4": null,
     "cate5": null,
     "cate6": null,
@@ -137,33 +131,12 @@
       }
     ],
     "other_items": [],
-    "makers": [
-      {
-        "id": 97,
-        "name": "Gift"
-      }
-    ],
+    "makers": [{ "id": 97, "name": "Gift" }],
     "series_titles": [
-      {
-        "id": 9619,
-        "name": "FumoFumo Series"
-      },
-      {
-        "id": 403,
-        "name": "Touhou Plush Series"
-      }
+      { "id": 9619, "name": "FumoFumo Series" },
+      { "id": 403, "name": "Touhou Plush Series" }
     ],
-    "original_titles": [
-      {
-        "id": 211,
-        "name": "Touhou Project"
-      }
-    ],
-    "character_names": [
-      {
-        "id": 7776,
-        "name": "Cirno"
-      }
-    ]
+    "original_titles": [{ "id": 211, "name": "Touhou Project" }],
+    "character_names": [{ "id": 7776, "name": "Cirno" }]
   }
 }

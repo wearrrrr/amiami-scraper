@@ -4,13 +4,20 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "entrypoint": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "bun index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-curl-impersonate": "^1.0.2"
+    "node-curl-impersonate": "^1.2.6"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
   }
 }
