@@ -1,4 +1,4 @@
-import CurlImpersonate from "node-curl-impersonate";
+import { CurlImpersonate } from "node-curl-impersonate";
 
 let ci = new CurlImpersonate("https://api.amiami.com/api/v1.0/items?pagemax=20&lang=eng&mcode=&ransu=&age_confirm=&s_keywords=touhouplush", {
   method: "GET",
