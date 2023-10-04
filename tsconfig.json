@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ESNext",       // Target ESNext for modern features
+    "target": "ES2020",       // Target ESNext for modern features
     "module": "Node16",     // Output CommonJS for Node.js compatibility
     "strict": true,           // Enable strict type checking
     "esModuleInterop": true,  // Enable ES module interop
