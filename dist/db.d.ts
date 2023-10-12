@@ -1,1 +1,3 @@
-export declare function insertAmiAmiData(name: string, price: number, image: string): Promise<void>;
+import { AmiAmiItem } from './types.js';
+export declare function createAmiAmiTable(): Promise<void>;
+export declare function insertAmiAmiData(data: AmiAmiItem): Promise<void>;

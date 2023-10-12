@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "better-sqlite3": "^8.7.0",
-    "node-curl-impersonate": "^1.4.0"
+    "node-curl-impersonate": "^1.4.1"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.5",
