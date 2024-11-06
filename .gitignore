@@ -1,2 +1,3 @@
 node_modules
-curl_impersonate
+dist/
+amiami.db
